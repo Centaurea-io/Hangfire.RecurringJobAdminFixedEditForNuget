@@ -12,7 +12,11 @@
 
 A simple dashboard to manage Hangfire's recurring jobs.
 
-This repo is an extension for [Hangfire](https://github.com/HangfireIO/Hangfire) based on ["Hangfire.Recurring Job Extensions"](https://github.com/icsharp/Hangfire.RecurringJobExtensions/) package made by vigoss, thanks for your contribution to the community. It contains the following functionalities: 
+This repo is an extension for [Hangfire](https://github.com/HangfireIO/Hangfire) based on ["Hangfire.Recurring Job Extensions"](https://github.com/icsharp/Hangfire.RecurringJobExtensions/) package made by vigoss, thanks for your contribution to the community.  
+Created by [bamotav](https://github.com/bamotav)
+
+
+It contains the following functionalities: 
 
 * We can use RecurringJobAttribute stored in database and presented in the administrator.
 
@@ -95,14 +99,6 @@ GlobalConfiguration.Configuration.UseSqlServerStorage("HangfireConnection").UseR
 ## Credits
  * Braulio Alvarez
  
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KTW8JH379NXQL&item_name=+&currency_code=USD&source=url)
-
-
 ## License
-Authored by: Brayan Mota (bamotav)
-
-This project is under MIT license. You can obtain the license copy [here](https://github.com/bamotav/Hangfire.RecurringJobAdmin/blob/master/LICENSE).
+This project is under MIT license. You can obtain the license copy [here](https://github.com/Centaurea-io/Hangfire.RecurringJobAdminFixedEditForNuget/blob/master/LICENSE).
 
