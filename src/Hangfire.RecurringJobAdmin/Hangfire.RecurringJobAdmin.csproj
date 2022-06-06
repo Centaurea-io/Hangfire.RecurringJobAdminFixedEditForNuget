@@ -17,7 +17,7 @@
       <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
       <Authors>Brayan Mota</Authors>
 	  <Company>Centaurea.io</Company>
-	  <PackageId>Community.Hangfire.Extension.ReccuringJobAdmin</PackageId>
+	  <PackageId>Community.Hangfire.Extension.RecurringJobAdmin</PackageId>
       <Copyright>Copyright © 2020-present Hangfire.Extension contributors</Copyright>
       <NeutralLanguage>en</NeutralLanguage>
       <PackageProjectUrl>https://github.com/Centaurea-io/Hangfire.RecurringJobAdminFixedEditForNuget</PackageProjectUrl>
